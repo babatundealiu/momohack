@@ -91,9 +91,7 @@ const HeroLight: React.FC = () => {
 			<Wrapper>
 				<HeroText>
 					<h1>
-						<span>Welcome</span> to Market padi platform! Start your journey towards financial goals and security. 
-						Your path to a brighter financial future begins here.
-					</h1>
+						<span>Welcome</span> to Market padi platform! Start your journey towards financial goals and security.					</h1>
 					<Link to='/onboarding'>
 						<button>Get Started</button>
 					</Link>
