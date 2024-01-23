@@ -19,7 +19,7 @@ const OnboardingPage: React.FC = () => {
 				</div>
 			</div>
 			<div>
-				<Link to='/signupuser'>
+				<Link to='/agentsignup'>
 					<div
 						className=' h-[100px] w-[400px] sm:w-[100%] border p-2 mt-12 bg-[#FFCB05] 
 rounded-md flex items-center gap-1 cursor-pointer'>

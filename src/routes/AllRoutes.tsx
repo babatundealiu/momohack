@@ -102,6 +102,10 @@ const Index = createBrowserRouter([
 				element: <UserTransaction />
 			},
 			{
+				path: 'agentsignup',
+				element: <AgentSignUpDark />
+			},
+			{
 				path: "creditscore",
 				element: <UserCreditScore/>
 			},
