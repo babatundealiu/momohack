@@ -93,7 +93,8 @@ const HeroLight:React.FC = () => {
     <Container>
         <Wrapper>
             <HeroText>
-                <h1><span>Duis</span> lobortois massa imperdiet quam. Lorem Ipsum dolor sit amet, consectetuer adipiscing elit.
+                <h1><span>Welcome</span> to Market padi platform! Start your journey towards financial goals and security. 
+						Your path to a brighter financial future begins here.
                 </h1>
                 <button>
                     Get Started
