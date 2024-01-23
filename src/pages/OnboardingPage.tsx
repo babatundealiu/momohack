@@ -11,10 +11,10 @@ const OnboardingPage: React.FC = () => {
 					<h3 className=' text-[#FFCB05]'>Padi</h3>
 				</div>
 				<div className=' flex justify-center font-semibold'>
-					<p className='text-[#FFCB05]'>Duis</p>
+					<p className='text-[#FFCB05]'>Welcome</p>
 					<p className=' text-[#084A5F] w-[350px] sm:w-[100%] text-center'>
-						lobortis massa imperdiet quam. Lorem ipsum dolor sit amet,
-						consectetuer adipiscing elit.
+						to Market padi platform! Start your journey towards financial goals and security. 
+						Your path to a brighter financial future begins here.
 					</p>
 				</div>
 			</div>
@@ -28,8 +28,8 @@ rounded-md flex items-center gap-1 cursor-pointer'>
 								Sign Up As A User
 							</h3>
 							<p className=' text-xs pt-1 text-[#084A5F]'>
-								Cras id dui. Quisque libero metus, condimentum nec, tempor a,
-								commodo mollis, magna.
+								fill your details, create your secure password, and you will be on your way to unlocking
+								world of saving opportunities.
 							</p>
 						</div>
 						<div
@@ -51,8 +51,7 @@ rounded-md flex items-center cursor-pointer'>
 								Sign Up As An Agent
 							</h3>
 							<p className=' text-xs p-1 text-[#FFCB05]'>
-								Cras id dui. Quisque libero metus, condimentum nec, tempor a,
-								commodo mollis, magna.
+							provide the required credentials and get ready to empower users on their savings journey
 							</p>
 						</div>
 						<div
@@ -74,8 +73,7 @@ rounded-md flex items-center cursor-pointer'>
 								Sign Up As A Merchant
 							</h3>
 							<p className=' text-xs p-1 text-[#FFFFFF]'>
-								Cras id dui. Quisque libero metus, condimentum nec, tempor a,
-								commodo mollis, magna.
+							provide the required credentials and get ready to empower users on their savings journey
 							</p>
 						</div>
 						<div

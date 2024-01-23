@@ -73,7 +73,7 @@ const UserSettingsNotification = () => {
            <div className="h-[15px] w-[30px] rounded-full bg-green-500 mr-3 "></div>
             <div>
                 <h1 className='font-bold text-[20px]'>Transfer Successful</h1>
-                <p className='text-[gray] '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem repellat ut fugit sapiente minus nihil veniam, eaque et qui hic.</p>
+                <p className='text-[gray] '>Your transaction was Successful, thanks for using our platform</p>
            </div>
             </div>
             <div className="text-green-500 font-bold text-right w-[200px]">View</div>
@@ -83,7 +83,7 @@ const UserSettingsNotification = () => {
            <div className="h-[15px] w-[22px] rounded-full bg-green-500 mr-2 "></div>
             <div>
                 <h1 className='font-bold text-[20px]'>Data Purchase</h1>
-                <p className='text-[gray]'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam, distinctio? Autem, enim.</p>
+                <p className='text-[gray]'>You can Purchase your data with ease on this platform</p>
            </div>
             </div>
             <div className="text-green-500 font-bold w-[200px] text-right">View</div>
@@ -96,7 +96,7 @@ const UserSettingsNotification = () => {
            <div className="h-[15px] w-[30px] rounded-full bg-green-500 mr-3 "></div>
             <div>
                 <h1 className='font-bold text-[20px]'>Transfer Successful</h1>
-                <p className='text-[gray] '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem repellat ut fugit sapiente minus nihil veniam, eaque et qui hic.</p>
+                <p className='text-[gray] '>Your transaction was Successful, thanks for using our platform</p>
            </div>
             </div>
             <div className="text-green-500 font-bold text-right w-[200px]">View</div>
@@ -109,7 +109,7 @@ const UserSettingsNotification = () => {
            <div className="h-[15px] w-[30px] rounded-full bg-red-500 mr-3 "></div>
             <div>
                 <h1 className='font-bold text-[20px]'>Transfer Unsuccessful</h1>
-                <p className='text-[gray] '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem repellat ut fugit sapiente minus nihil veniam, eaque et qui hic.</p>
+                <p className='text-[gray] '>Your transaction was unsuccessful, thanks for using our platform</p>
            </div>
             </div>
             <div className="text-green-500 font-bold text-right w-[200px]">View</div>
@@ -119,7 +119,7 @@ const UserSettingsNotification = () => {
            <div className="h-[15px] w-[30px] rounded-full bg-green-500 mr-3 "></div>
             <div>
                 <h1 className='font-bold text-[20px]'>Transfer Successful</h1>
-                <p className='text-[gray] '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem repellat ut fugit sapiente minus nihil veniam, eaque et qui hic.</p>
+                <p className='text-[gray] '>Your transaction was Successful, thanks for using our platform</p>
            </div>
             </div>
             <div className="text-green-500 font-bold text-right w-[200px]">View</div>
@@ -129,7 +129,7 @@ const UserSettingsNotification = () => {
            <div className="h-[15px] w-[30px] rounded-full bg-green-500 mr-3 "></div>
             <div>
                 <h1 className='font-bold text-[20px]'>Transfer Successful</h1>
-                <p className='text-[gray] '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem repellat ut fugit sapiente minus nihil veniam, eaque et qui hic.</p>
+                <p className='text-[gray] '>Your transaction was Successful, thanks for using our platform</p>
            </div>
             </div>
             <div className="text-green-500 font-bold text-right w-[200px]">View</div>
@@ -139,7 +139,7 @@ const UserSettingsNotification = () => {
            <div className="h-[15px] w-[30px] rounded-full bg-green-500 mr-3 "></div>
             <div>
                 <h1 className='font-bold text-[20px]'>Transfer Successful</h1>
-                <p className='text-[gray] '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem repellat ut fugit sapiente minus nihil veniam, eaque et qui hic.</p>
+                <p className='text-[gray] '>Your transaction was Successful, thanks for using our platform.</p>
            </div>
             </div>
             <div className="text-green-500 font-bold text-right w-[200px]">View</div>
@@ -149,7 +149,7 @@ const UserSettingsNotification = () => {
            <div className="h-[15px] w-[30px] rounded-full bg-green-500 mr-3 "></div>
             <div>
                 <h1 className='font-bold text-[20px]'>Transfer Successful</h1>
-                <p className='text-[gray] '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem repellat ut fugit sapiente minus nihil veniam, eaque et qui hic.</p>
+                <p className='text-[gray] '>Your transaction was Successful, thanks for using our platform</p>
            </div>
             </div>
             <div className="text-green-500 font-bold text-right w-[200px]">View</div>
